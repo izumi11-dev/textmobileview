@@ -1,0 +1,53 @@
+body {
+    font-size: 15pt;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.all-container{
+  background-color: white;
+  height: 720px;
+  border-radius: 30px;
+  width: 350px;
+  margin: auto;
+  border:2px solid black;
+  margin-top: 20px;
+}
+.imge img{
+  width: 350px;
+  margin-top: 120px;
+}
+.Text h1{
+  text-align: center;
+  color: darkblue;
+}
+.Text p{
+  font-size: 13px;
+  text-align: center;
+  color: midnightblue;
+}
+.btn{
+  text-align: center;
+  margin-top: 60px;
+}
+.btn button{
+  width: 200px;
+  height: 50px;
+  border-radius:25px;
+  color: white;
+  background-color: brown;
+  border: 1px solid darkblue;
+}
+.footer {
+  float: left;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.footer a{
+  text-decoration: none;
+}
+.end{
+  font-size: 8px;
+  margin-top: 70px;
+  text-align: center;
+}
